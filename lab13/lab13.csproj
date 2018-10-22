@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CEADiskInfo.cs" />
+    <Compile Include="CEAFileAndDirInfo.cs" />
+    <Compile Include="CEAFileManager.cs" />
+    <Compile Include="CEALog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
