@@ -23,11 +23,17 @@ namespace lab13
             CEAFileManager.CreateDirectory(@"C:\Users\eugen\Desktop\lab13\CEAInspect");
             CEAFileManager.CreateFile(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt");
             CEAFileManager.WriteInfo(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt", CEAFileManager.GetFilesAndFolders(@"D:\Steam"));
+            if (File.Exists(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEACopy.txt"))
+            {
+                File.Delete(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEACopy.txt");
+            }
             File.Copy(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt", @"C:\Users\eugen\Desktop\lab13\CEAInspect\CEACopy.txt");
             File.Delete(@"C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt");
 
-
-            //Directory.Delete(@"C:\Users\eugen\Desktop\lab13\CEAInspect\", true);
+            //if (Directory.Exists(@"C:\Users\eugen\Desktop\lab13\CEAInspect\"))
+            //{
+            //    Directory.Delete(@"C:\Users\eugen\Desktop\lab13\CEAInspect\", true);
+            //}
             CEAFileManager.CopyFiles(@"C:\Users\eugen\Desktop\lab13\lab13", ".cs");
             Directory.Move(@"C:\Users\eugen\Desktop\lab13\CEAFiles", @"C:\Users\eugen\Desktop\lab13\CEAInspect\CEAFiles");
 
@@ -42,6 +48,9 @@ namespace lab13
             CEAFileManager.Decompress(compressedFile, targetFile);
 
             #endregion
+
+            CEALog.FindInfo("Создание файла");
+
 
         }
     }

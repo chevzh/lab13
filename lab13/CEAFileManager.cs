@@ -18,11 +18,15 @@ namespace lab13
         public static void CreateDirectory(string path)
         {
             Directory.CreateDirectory(path);
+            DirectoryInfo file = new DirectoryInfo(path);
+            CEALog.WriteToLog("Создание новой директории", file.Name, file.FullName);
         }
 
         public static void CreateFile(string path)
         {
             using (File.Create(path));
+            FileInfo file = new FileInfo(path);
+            CEALog.WriteToLog("Создание файла", file.Name, file.FullName);
         }
 
         public static void WriteInfo(string path, IEnumerable<string> buffer)
@@ -52,8 +56,11 @@ namespace lab13
                 if (file.Extension.Equals(extension))
                 {
                    File.Copy(file.FullName, @"C:\Users\eugen\Desktop\lab13\CEAFiles\"+file.Name);
+                   CEALog.WriteToLog("Копирование файлов", file.Name, file.FullName);
                 }
             }
+
+           
 
         }
 
@@ -74,6 +81,8 @@ namespace lab13
                     }
                 }
             }
+            FileInfo file = new FileInfo(sourceFile);
+            CEALog.WriteToLog("Упаковка файлов в архив", file.Name, file.FullName);
         }
 
         public static void Decompress(string compressedFile, string targetFile)
@@ -92,6 +101,9 @@ namespace lab13
                     }
                 }
             }
+
+            FileInfo file = new FileInfo(compressedFile);
+            CEALog.WriteToLog("Распаковка файлов из архива", file.Name, file.FullName);
         }
 
 

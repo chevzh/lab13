@@ -1,0 +1,444 @@
+
+
+Создание новой директории
+23.10.2018 9:16:09
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:16:09
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:16:20
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:16:20
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:16:33
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:16:33
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:16:54
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:16:54
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Копирование файлов
+23.10.2018 9:16:54
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:16:54
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:16:54
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:16:54
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:16:54
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Создание новой директории
+23.10.2018 9:17:24
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:17:24
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:17:41
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:17:41
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Копирование файлов
+23.10.2018 9:17:41
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:17:41
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:17:41
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:17:41
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:17:41
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Упаковка файлов в архив
+23.10.2018 9:17:41
+Имя файла: 13_Потоки_файловая система.pdf
+Путь к файлу: C:\Users\eugen\Desktop\lab13\13_Потоки_файловая система.pdf
+
+
+Распаковка файлов из архива
+23.10.2018 9:17:41
+Имя файла: lab13.gz
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13.gz
+
+
+Создание новой директории
+23.10.2018 9:28:39
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:28:39
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:28:39
+Имя файла: CEAFiles
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAFiles
+
+
+Копирование файлов
+23.10.2018 9:28:39
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:28:39
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:28:39
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:28:39
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:28:39
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Создание новой директории
+23.10.2018 9:28:59
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:28:59
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Копирование файлов
+23.10.2018 9:28:59
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:28:59
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:28:59
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:28:59
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:28:59
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Упаковка файлов в архив
+23.10.2018 9:28:59
+Имя файла: 13_Потоки_файловая система.pdf
+Путь к файлу: C:\Users\eugen\Desktop\lab13\13_Потоки_файловая система.pdf
+
+
+Распаковка файлов из архива
+23.10.2018 9:28:59
+Имя файла: lab13.gz
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13.gz
+
+
+Создание новой директории
+23.10.2018 9:32:00
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:32:00
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:32:00
+Имя файла: CEAFiles
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAFiles
+
+
+Копирование файлов
+23.10.2018 9:32:00
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:32:00
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:32:00
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:32:00
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:32:00
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Упаковка файлов в архив
+23.10.2018 9:32:00
+Имя файла: 13_Потоки_файловая система.pdf
+Путь к файлу: C:\Users\eugen\Desktop\lab13\13_Потоки_файловая система.pdf
+
+
+Распаковка файлов из архива
+23.10.2018 9:32:00
+Имя файла: lab13.gz
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13.gz
+
+
+Создание новой директории
+23.10.2018 9:33:12
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:33:12
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Создание новой директории
+23.10.2018 9:33:12
+Имя файла: CEAFiles
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAFiles
+
+
+Копирование файлов
+23.10.2018 9:33:12
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:33:12
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:33:12
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:33:12
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:33:12
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Создание новой директории
+23.10.2018 9:33:47
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:33:47
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Копирование файлов
+23.10.2018 9:33:47
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:33:47
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:33:47
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:33:47
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Создание новой директории
+23.10.2018 9:34:28
+Имя файла: CEAInspect
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect
+
+
+Создание файла
+23.10.2018 9:34:28
+Имя файла: CEAdirinfo.txt
+Путь к файлу: C:\Users\eugen\Desktop\lab13\CEAInspect\CEAdirinfo.txt
+
+
+Копирование файлов
+23.10.2018 9:34:28
+Имя файла: CEADiskInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEADiskInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:34:28
+Имя файла: CEAFileAndDirInfo.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileAndDirInfo.cs
+
+
+Копирование файлов
+23.10.2018 9:34:28
+Имя файла: CEAFileManager.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEAFileManager.cs
+
+
+Копирование файлов
+23.10.2018 9:34:28
+Имя файла: CEALog.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\CEALog.cs
+
+
+Копирование файлов
+23.10.2018 9:34:28
+Имя файла: Program.cs
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13\Program.cs
+
+
+Упаковка файлов в архив
+23.10.2018 9:34:28
+Имя файла: 13_Потоки_файловая система.pdf
+Путь к файлу: C:\Users\eugen\Desktop\lab13\13_Потоки_файловая система.pdf
+
+
+Распаковка файлов из архива
+23.10.2018 9:34:28
+Имя файла: lab13.gz
+Путь к файлу: C:\Users\eugen\Desktop\lab13\lab13.gz
