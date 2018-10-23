@@ -50,7 +50,7 @@ namespace lab13
             #endregion
 
             CEALog.FindInfo("Создание файла");
-
+            CEALog.LastHourLog();
 
         }
     }
