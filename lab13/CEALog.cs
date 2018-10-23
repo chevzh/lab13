@@ -28,26 +28,63 @@ namespace lab13
             using (StreamReader sr = new StreamReader(@"C:\Users\eugen\Desktop\lab13\cealog.txt", System.Text.Encoding.Default))
             {
                 string line;
+                int counter = 0;
                 bool writing = false;
 
                 while ((line = sr.ReadLine()) != null)
                 {
-                    if (line.Contains(action))
-                    {
-                        writing = true;
-                        Console.WriteLine(line);
-                    }
-
-                    if(writing )
+                    if (line.Contains(action) || writing)
                     {
                         Console.WriteLine(line);
+                        counter++;
+                        if (counter != 4)
+                        {
+                            writing = true;
+                        }
+                        else
+                        {
+                            writing = false;
+                        }                       
                     }
+                    else
+                    {
+                        counter = 0;
+                    }                 
 
                    
 
                 }
             }
         }
+
+        //public static void LastHourLog()
+        //{
+        //    string line;
+        //    int counter = 0;
+        //    bool writing = false;
+        //    using (StreamReader sr = new StreamReader(@"C:\Users\eugen\Desktop\lab13\cealog.txt", System.Text.Encoding.Default))
+        //    {
+        //        while ((line = sr.ReadLine()) != null)
+        //        {
+        //            if (line.Contains(DateTime.Now.Hour.ToString()) || writing)
+        //            {
+        //                Console.WriteLine(line);
+        //                counter++;
+        //                if (counter != 4)
+        //                {
+        //                    writing = true;
+        //                }
+        //                else
+        //                {
+        //                    writing = false;
+        //                }
+        //            }
+        //            else
+        //            {
+        //                counter = 0;
+        //            }
+        //        }
+        //}
 
     }
 
